@@ -1,0 +1,2 @@
+# Test
+Last question of "Intro to CS in JAVA" final exam (Open University).  Snake-Path: 1. Starts on the first cell of the matrix. 2. The path goes diagonally. 3. The path goes to cells that the difference between their values are 1 at most. 4. The path cannot go to cell that it visited before. 5.  The path ends when there's nowhere else to go (dead end).  - The method must be recursive. The matrix has positive values. - The method return the minimal snake-path sum.
